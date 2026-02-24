@@ -1,0 +1,7 @@
+# List Modules require
+pandas
+requests
+numpy
+# ipykernal
+configparser
+dotenv
